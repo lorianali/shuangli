@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorianali
 - 👀 I’m interested in programming frontend and backend.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning C#
 
 
 <!---
